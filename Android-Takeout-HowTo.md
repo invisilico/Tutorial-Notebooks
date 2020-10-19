@@ -31,7 +31,11 @@ Click "Create Export" and you're done! (almost)
 
 ![6](https://user-images.githubusercontent.com/68754864/96494598-3202b580-1264-11eb-8605-0c415020ab06.png)
 
-Once you click "create export" you will see a new banner like this, telling you it is under way. The process only took 2 minutes for me. **However** you may receive a notification on your phone and an e-mail from google, asking you to confirm it was you that requested an export. You nay not recieve a download link till you open that e-mail/notification and click "yes". So check your e-mail!
+Once you click "create export" you will see a new banner like this, telling you it is under way. The process only took 2 minutes for me. 
+
+**However** you may receive a notification on your phone and an e-mail from google, asking you to confirm it was you that requested an export. You may not recieve a download link till you open that e-mail/notification and click "yes". 
+
+So check your e-mail!
 
 ![7](https://user-images.githubusercontent.com/68754864/96494600-329b4c00-1264-11eb-8fc3-c50fc6694cd1.png)
 
