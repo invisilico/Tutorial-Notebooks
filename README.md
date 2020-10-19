@@ -27,7 +27,10 @@ The project is unlicensed, and as such, I do not consent to reproduction of the 
 It is available for all teachers that may want to use it for class, or any one really that wishes to play with it, so long as you follow the consent protocol mentioned in the two links above. It involves sending a mail (to me, and me responding) or a github "issue" being raised (and for me to accept it). It helps me keep track of how many people liked it, and collect feedback, so I may make more notebooks/make this one better.
 
 ## Contact
-e-mail : nishantjana5@gmail.com
-twitter: @In_Visilico[https://twitter.com/In_Visilico]
-github: you're here!
-github : you're here!
+
+E-mail : nishantjana5@gmail.com
+
+Twitter: [@In_Visilico](https://twitter.com/In_Visilico)
+
+Github: you're here!
+
