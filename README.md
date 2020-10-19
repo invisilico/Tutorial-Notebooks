@@ -2,9 +2,9 @@
 
 A jupyter-notebook based digital experiment notebook to help teach the basics of a neuro-behaviour experiment, completely ONLINE!
 
-If you're a Teacher and would like to use this notebook to teach your class, please click here.
+#### If you're a Teacher and would like to use this notebook to teach your class, please click here.
 
-If you're a Student that's been asked to do this experiment or anyone is just plain interested, click here.
+#### If you're a Student that's been asked to do this experiment or anyone is just plain interested, click here.
 
 Please read the page applicable (from the two options above) before using the notebooks.
 
