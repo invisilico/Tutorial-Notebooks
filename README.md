@@ -24,4 +24,10 @@ Please consider sharing your android app activity data with us here[] along with
 
 The project is unlicensed, and as such, I do not consent to reproduction of the notebook or it's use without my knowledge. 
 
-It is available for all teachers that may want to use it for class, or any one really that wishes to play with it, so long as you follow the consent protocol mentioned in the two links above. It involves sending a mail (to me, and me responding) or a github "issue" being raised (and for me to accept it). It helps me keep track of how many people liked it, and collext feedback, so I may make more notebooks/make this one better.
+It is available for all teachers that may want to use it for class, or any one really that wishes to play with it, so long as you follow the consent protocol mentioned in the two links above. It involves sending a mail (to me, and me responding) or a github "issue" being raised (and for me to accept it). It helps me keep track of how many people liked it, and collect feedback, so I may make more notebooks/make this one better.
+
+## Contact
+e-mail : nishantjana5@gmail.com
+twitter: @In_Visilico[https://twitter.com/In_Visilico]
+github: you're here!
+github : you're here!
