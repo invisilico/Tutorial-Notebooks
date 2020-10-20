@@ -7,11 +7,11 @@ I hope you all find it as interesting as I did, to analyse your own data, your o
 
 ### For Teachers that would like to use this notebook to teach their class
 
-[Click Here if you're a teacher!](https://github.com/invisilico/Tutorial-Notebooks/blob/main/For-Teachers.md)
+[Click Here if you're a teacher!](https://invisilico.github.io/Tutorial-Notebooks/For-Teachers)
 
 ### For Students that have been asked to do this experiment (or any interested individual)
 
-[Click here if you're a student! (or someone interested)](https://github.com/invisilico/Tutorial-Notebooks/blob/main/For-Students.md)
+[Click here if you're a student! (or someone interested)](https://invisilico.github.io/Tutorial-Notebooks/For-Students)
 
 Please read the page applicable (from the two options above) before using the notebooks.
 
