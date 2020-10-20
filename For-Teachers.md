@@ -2,7 +2,7 @@
 
 This digital experiment based on android app activity data tries to show students what real-world neuro-behaviour experiments are like. How, our phone activity, like a mouse wheel, is a noisy method of capturing data that doesn't always tell us the whole truth. And how by manipulating the data and representing it in different ways, it shows us different things about the behaviour of the animal (mouse or man). Beyond different plotting and representation methods, the notebook has one section that deals with inferring a state of the organism from activity data (sleep/wake), and another section where students try to find the relation between weekday sleep-loss and weekend excess sleep. 
 
-I have chosen to keep it really simple and tried to make sure the students do not need to know how to code in order to do the experiment. The entire experiment is within a jupyter notebook and thus does introduce them to python (if they choose to see the code). There are no comparison based "results" here either, and no statsitical analyses, but is rather an all quanlitative approach to understanding the inferences one can make from different visualizations of their own data. 
+I have chosen to keep it really simple and tried to make sure the students do not need to know how to code in order to do the experiment. The entire experiment is within a jupyter notebook and thus does introduce them to python (if they choose to see the code). There are no comparison based "results" here either, and no statsitical analyses, but is rather an all quantitative approach to understanding the inferences one can make from different visualizations of their own data. 
 
 ## About Usage Permissions
 
