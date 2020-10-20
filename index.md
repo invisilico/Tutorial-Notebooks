@@ -5,15 +5,11 @@ This project started out thanks to the COVID-19 pandemic, and hopefully, it will
 I hope you all find it as interesting as I did, to analyse your own data, your own behaviour, and you own rhythms.
 
 
-### For Teachers that would like to use this notebook to teach their class
+### For Teachers that would like to use this notebook to teach their class, [click here.](https://invisilico.github.io/Tutorial-Notebooks/For-Teachers)
 
-[Click Here if you're a teacher!](https://invisilico.github.io/Tutorial-Notebooks/For-Teachers)
+### For Students that have been asked to do this experiment (or any interested individual), [click here.](https://invisilico.github.io/Tutorial-Notebooks/For-Students)
 
-### For Students that have been asked to do this experiment (or any interested individual)
-
-[Click here if you're a student! (or someone interested)](https://invisilico.github.io/Tutorial-Notebooks/For-Students)
-
-Please read the page applicable (from the two options above) before using the notebooks.
+Please head to the page applicable (from the two options above) for details.
 
 
 ## Help us with your data!
