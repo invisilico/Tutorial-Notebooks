@@ -12,11 +12,14 @@ However, I would greatly appreciate if **before** using it in any way, you raise
 
 Please mention the following details:
 
-Your Name and University (with an e-mail), the course in which you wish to use the tool and a round figure size of the class. If you would like to modify the contents of the experiment (add/remove/change) please add those details as well.
+1. Your Name and University (with an e-mail for contact).
+2. The name of the course you teach.
+3. A round figure size of the class. 
+4. Any changes you wish to make to the notebook.
 
 The details will help me keep track of the reach of the project and collect feedback. I would also appreciate any and all feedback from you and your class afterwards. If you choose to collect reports from your students, I would love to see them! (and be a part of the class discussion too, if that's possible!)
 
-Additionally, I would greatly appreciate if you could urge your class to share the data file they used for their experiment with the form linked in the [main page](https://invisilico.github.io/Tutorial-Notebooks). All the details of the data collection protocol and project are detailed there and it would really really help me with my project in studying human rhythms.
+Additionally, I would greatly appreciate if you could urge your class to share the data file they use for the experiment with the help of the form linked in the [main page](https://invisilico.github.io/Tutorial-Notebooks). The data collection protocol and project info are detailed there and it would really really help me with my project in studying human rhythms.
 
 ## About the Experiment
   
