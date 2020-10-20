@@ -30,8 +30,8 @@ A special thanks to Dr. Yueping Zhang, Lewis and Clark College for their interes
 
 ## Contact
 
-E-mail : <a href="mailto:nishantjana5@gmail.com">nishantjana5@gmail.com</a>
+E-mail  : <a href="mailto:nishantjana5@gmail.com">nishantjana5@gmail.com</a>
 
-Twitter: [@In_Visilico](https://twitter.com/In_Visilico)
+Twitter : [@In_Visilico](https://twitter.com/In_Visilico)
 
-Github: [you're here!](https://github.com/invisilico)
+Github  : [you're here!](https://github.com/invisilico)
