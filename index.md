@@ -2,7 +2,7 @@
 
 This project started out thanks to the COVID-19 pandemic, and hopefully, it will help teachers overcome one of the challenges they face while teaching online: not being able to give students experience from hands-on experiments. It surely will not be the same as actually doing a full length neuro-behaviour experiment, but I've tried to cover the basics, from cleaning, critiquing the data at hand, to understanding it's scope. To analysing underlying behaviour from the data (the concept of Markov Processes and HMMs) and making predictions from the data. All of this with a fair amount of plotting, and very little coding required from the student. 
 
-I hope you all find it as interesting as I did, to analyse your own data, your own behaviour, and you own rhythms.
+I hope you will find it as interesting as I did, to analyse your own data, your own behaviour, and you own rhythms.
 
 
 ### For Teachers that would like to use this notebook to teach their class, [click here.](https://invisilico.github.io/Tutorial-Notebooks/For-Teachers)
