@@ -11,14 +11,18 @@ I hope you all find it as interesting as I did, to analyse your own data, your o
 
 #### For Teachers that would like to use this notebook to teach their class
 
+[Click Here if you're a teacher!](https://github.com/invisilico/Tutorial-Notebooks/blob/main/For-Teachers.md)
+
 #### For Students that have been asked to do this experiment (or any interested individual)
+
+[Click here if you're a student! (or someone interested)](https://github.com/invisilico/Tutorial-Notebooks/blob/main/For-Students.md)
 
 Please read the page applicable (from the two options above) before using the notebooks.
 
 
 ## Help us with your data!
 
-Please consider sharing your android app activity data with us here[] along with a short questionnaire. (Or ask your students to do so). It's five minutes of your time and helps us greatly increase the power and generalizability of our research. All data is anonymised and we follow IRB approved protocols for existing data collection as detailed here. The project is in collaboration with the de la Iglesia lab at University of Washington, Seattle. Feel free to contact raysan53@uw.edu for any information regarding the same!
+Please consider sharing your android app activity data with us [here]() along with filling a short questionnaire. (Or ask your students to do so). It's five minutes of your time and helps us greatly increase the power and generalizability of our research. All data is anonymised and we follow IRB approved protocols for existing data collection as detailed [here](). The project is in collaboration with the de la Iglesia lab at University of Washington, Seattle. Feel free to contact raysan53@uw.edu for any information regarding the same!
 
 ## About Licensing
 
