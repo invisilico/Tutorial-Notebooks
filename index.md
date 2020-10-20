@@ -34,7 +34,7 @@ A special thanks to Dr. Yueping Zhang, Lewis and Clark College for their interes
 
 ## Contact
 
-E-mail : nishantjana5@gmail.com
+E-mail : <a href="mailto:nishantjana5@gmail.com">nishantjana5@gmail.com</a>
 
 Twitter: [@In_Visilico](https://twitter.com/In_Visilico)
 
