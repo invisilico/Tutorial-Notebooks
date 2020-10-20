@@ -7,7 +7,7 @@ I hope you will find it as interesting as I did, to analyse your own data, your 
 
 ### For Teachers that would like to use this notebook to teach their class, [click here.](https://invisilico.github.io/Tutorial-Notebooks/For-Teachers)
 
-### For Students that have been asked to do this experiment (or any interested individual), [click here.](https://invisilico.github.io/Tutorial-Notebooks/For-Students)
+### For Students and others that want to do the experiment, [click here.](https://invisilico.github.io/Tutorial-Notebooks/For-Students)
 
 Please head to the page applicable (from the two options above) for details.
 
