@@ -21,7 +21,7 @@ But this experiment isn't about a mouse, it's about **you**. So what might be a 
 
 I think the answer might just be, our *constant* usage of phones.
 
-So that's the first step. Collecting your phone usage data. Something you can easily do following the seps I've documented [here](https://invisilico.github.io/Tutorial-Notebooks/Android-Takeout-HowTo)
+So that's the first step. Collecting your phone usage data. Something you can easily do following the steps I've documented [here](https://invisilico.github.io/Tutorial-Notebooks/Android-Takeout-HowTo).
 
 This only works for android phones (sorry) so I would suggest you get the data from someone that uses an android phone, if you do not use one. If you're a part of a class and have your own data, consider sharing it with your friends. I woudl urge you to try sourcing your own data, but if you really **really** cannot arrange for it, don't worry, I'm sharing mine with you [here](). I trust you will be careful with it. (and share cool stuff about my data, with me!)
 
