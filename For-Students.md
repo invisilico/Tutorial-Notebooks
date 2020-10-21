@@ -11,7 +11,7 @@ Importantly, if you are someone that's here out of interest and not because your
 If you run into any issues, feel free to contact me! 
 
 [@In_Visilico](twitter.com/In_Visilico) on twitter.
-<a href="mailto:nishantjana5@gmail.com">nishantjana5@gmail.com</a>
+<a href="mailto:nishantjana5@gmail.com">nishantjana5@gmail.com</a> the old fashioned way.
 
 ## Intro
 
