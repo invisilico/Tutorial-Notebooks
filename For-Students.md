@@ -36,4 +36,4 @@ I know it might sound fancy and daunting to those of you that have never used it
 If you run into issues or think the code can be optimised, contact me!
 I'm still an undergrad, I'd love to learn from you and with you.
 
-Your portal to the notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+Your portal to the notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/Tutorial-Notebooks/blob/main/Digital_Behaviour_Notebook.ipynb)
