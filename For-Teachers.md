@@ -45,11 +45,9 @@ At each important stage, it would benefit them to discuss with each other to loo
  
 Please click on the button below to open the jupyter notebook in google colaboratory:
 
-example for teachers (with plots and data): 
+example for teachers (with plots and data): [![Open In Colab]()
 
-example report: 
-
-student version (empty, for students to run with their own data): 
+student version (empty, for students to run with their own data): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/Tutorial-Notebooks/blob/main/Digital_Behaviour_Notebook.ipynb)
 
 ## For student instruction
 
